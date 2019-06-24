@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/cloudsmith-consulting/c20ca92d-a9a9-45af-8bdb-da3ce0803b59/bbbc255d-5f18-4322-92cc-c14c51b2d2bf/_apis/work/boardbadge/e1ea2e30-3d58-4acc-9d84-cc3c0292c98f)](https://dev.azure.com/cloudsmith-consulting/c20ca92d-a9a9-45af-8bdb-da3ce0803b59/_boards/board/t/bbbc255d-5f18-4322-92cc-c14c51b2d2bf/Microsoft.RequirementCategory)
